@@ -287,5 +287,5 @@ static const char* vendors[VENDORS_BANKS][VENDORS_ITEMS] =
  "High Bridge Solutions Industria Eletronica", "Transcend Technology Co. Ltd.",
  "Everspin Technologies", "Hon-Hai Precision", "Smart Storage Systems", "Toumaz Group",
  "Zentel Electronics Corporation", "Panram International Corporation",
- "Silicon Space Technology"}
+ "Silicon Space Technology","sinker"}
 };
